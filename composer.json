@@ -1,9 +1,9 @@
 {
-    "name": "User/mycomposer",
+    "name": "Pavlushenko/mycomposer",
     "authors": [
         {
-            "name": "Lunnatk",
-            "email": "lunnatk@gmail.com"
+            "name": "Pavlushenko",
+            "email": "anjela_Pavlushenko@mail.ru"
         }
     ],
     "autoload": {
