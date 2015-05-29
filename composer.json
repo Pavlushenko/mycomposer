@@ -11,4 +11,5 @@
 			"4_3_1.php"
 		]
 	}
+	"minimum-stability": "dev"
 }
