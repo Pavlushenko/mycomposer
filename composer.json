@@ -1,0 +1,14 @@
+{
+    "name": "User/mycomposer",
+    "authors": [
+        {
+            "name": "Lunnatk",
+            "email": "lunnatk@gmail.com"
+        }
+    ],
+    "autoload": {
+		"classmap": [
+			"4_3_1.php"
+		]
+	}
+}
