@@ -6,10 +6,11 @@
             "email": "lunnatk@gmail.com"
         }
     ],
+	"minimum-stability": "dev",
     "autoload": {
 		"classmap": [
 			"4_3_1.php"
 		]
 	}
-	"minimum-stability": "dev"
+	
 }
